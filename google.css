@@ -1,0 +1,77 @@
+div {
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	list-style-type: none;
+}
+
+nav ul {
+	list-style-type: none;
+	float: right;
+
+}
+
+nav ul li {
+	display: inline;
+	padding-left: 10px;
+	margin: 0;
+}
+
+
+nav ul li img {
+	height: 15px;
+	width: 15px;
+}
+
+form input {
+	width: 425px;
+	height: 26px;
+	margin: auto;
+    width: 100%;
+}
+
+img {
+	width: 300px;
+	margin: none;
+	padding: none;
+}
+
+
+#search {
+	margin: auto;
+    width: 40%;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+
+button {
+	background: #f2f2f2;
+}
+
+footer {
+	bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: absolute;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+
+footer ul {
+	margin-right: 40px;
+}
+
+#l_footer li {
+	float: left;
+	list-style-type: none;
+	display: inline-block;
+	padding-left: 27px;
+}
+
+#r_footer li {
+	float: right;
+	list-style-type: none;
+	display: inline-block;
+	
+}
